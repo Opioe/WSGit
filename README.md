@@ -1,0 +1,2 @@
+# WSGit
+pour WS git
